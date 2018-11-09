@@ -13,6 +13,7 @@ body {
     background-color: #1abc9c;
     height: 125px;
     line-height: 125px;
+    padding: 0px 10px;
 }
 #header a {
     color: white;
@@ -44,7 +45,7 @@ body {
 }
 #footer {
     background-color: #2f2f2f;
-    padding: 50px 0;
+    padding: 1px 10px;
 }
 .column {
     min-width: 300px;
@@ -69,7 +70,7 @@ a:hover {
 .post {
     max-width: 800px;
     margin: 0 auto;
-    padding: 60px 0;
+    padding: 30px 10px;
 }
 .post-author img {
     width: 50px;
