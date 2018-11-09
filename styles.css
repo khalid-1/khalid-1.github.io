@@ -4,6 +4,13 @@
     width: device-width ;
     zoom: 1.0 ;
   }
+  @media only screen and (min-width: 768px) {
+    .post {
+        max-width: 800px;
+        margin: 64px auto;
+        padding: 30px 10px;
+    }
+}
 body {
     margin: 0;
     color: #555;
